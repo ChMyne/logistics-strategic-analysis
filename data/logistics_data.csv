@@ -1,0 +1,16 @@
+order_id,warehouse,delivery_distance,delivery_time,transportation_cost,inventory_level,on_time
+ORD001,Hyderabad,120,2,450,85,Yes
+ORD002,Vijayawada,250,4,720,42,Yes
+ORD003,Guntur,180,5,600,20,No
+ORD004,Hyderabad,320,6,950,15,No
+ORD005,Visakhapatnam,150,3,520,70,Yes
+ORD006,Vijayawada,280,5,800,30,No
+ORD007,Guntur,100,2,350,90,Yes
+ORD008,Hyderabad,220,4,680,55,Yes
+ORD009,Visakhapatnam,400,7,1100,10,No
+ORD010,Guntur,160,3,500,65,Yes
+ORD011,Hyderabad,300,6,900,25,No
+ORD012,Vijayawada,130,2,400,80,Yes
+ORD013,Visakhapatnam,350,6,1000,18,No
+ORD014,Guntur,210,4,650,45,Yes
+ORD015,Hyderabad,170,3,550,75,Yes
